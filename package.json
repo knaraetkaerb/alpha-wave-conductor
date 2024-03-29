@@ -1,0 +1,34 @@
+{
+  "name": "alpha-wave-conductor",
+  "version": "1.0.0",
+  "description": "Conducts waves in the alpha spectrum, enhancing communication and signal processing in quantum environments.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/alpha-wave-conductor"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "beta-quartz-inspector": "1.0.0",
+    "gamma-field-generator": "1.0.0",
+    "xml2js": "1.0.0",
+    "body-parser": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "react-dom": "1.0.0",
+    "chalk": "1.0.0",
+    "request": "1.0.0",
+    "react-redux": "1.0.0",
+    "bcrypt": "1.0.0",
+    "jest": "1.0.0",
+    "web3": "1.0.0",
+    "dotenv": "1.0.0",
+    "enzyme": "1.0.0",
+    "nodemon": "1.0.0"
+  }
+}
